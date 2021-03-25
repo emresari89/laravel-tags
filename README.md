@@ -79,7 +79,7 @@ Article::existingTags(); // return collection of all existing tags on any articl
 
 #### Credits
 
- - Robert Emresari - http://smartersoftware.net
+ - Emre Sarıoğlu - https://emresarioglu.com.tr
 
 #### Further Reading
  - [Laravel News article on tagging with this library](https://laravel-news.com/how-to-add-tagging-to-your-laravel-app)
